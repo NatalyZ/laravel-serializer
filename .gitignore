@@ -1,3 +1,5 @@
 vendor/
+/vendor/
 .idea
+/.idea
 composer.lock
